@@ -1,0 +1,1 @@
+This is a project coded with SQL and Bash based on the FreeCodeCamp Relational Database Certificate specifications. salon.sh allows the user to make a booking which is then logged in the SQL database.
